@@ -15,15 +15,15 @@ Whether you are preparing for **FAANG interviews** or looking to enhance your **
 ## 📌 Table of Contents
 
 ### 1️⃣ Object-Oriented Design (OOD)
-- [Design a Parking Lot](./1.ParkingLot/README.md)
-- [Design an Elevator System](./2.elevatorSystem/README.md)
-- [Design a Car Rental System](./3.CarRentalSystem/README.md)
-- [Design a Meeting Scheduler](./4.meetingScheduler/README.md)
-- [Design a Vending Machine System](./5.VendingMachineSystem/README.md)
-- [Design LinkedIn (UCD)](./6_1.LinkedIn-ucd.drawio/README.md)
-- [LinkedIn Design (All Class Data)](./6_2.LinkedIn-Design\ [All\ Class\ Data]/README.md)
-- [Design a Chess Game System](./7.ChessGameSystem/README.md)
-- [Design a Restaurant System](./8.restaurantSystem/README.md)
+- [Design a Parking Lot](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/1.ParkingLot)
+- [Design an Elevator System](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/2.elevatorSystem)
+- [Design a Car Rental System](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/3.CarRentalSystem)
+- [Design a Meeting Scheduler](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/4.meetingScheduler)
+- [Design a Vending Machine System](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/5.VendingMachineSystem)
+- [Design LinkedIn (UCD)](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/6_1.LinkedIn-ucd.drawio)
+- [LinkedIn Design (All Class Data)](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/6_2.LinkedIn-Design%20%5BAll%20Class%20Data%5D)
+- [Design a Chess Game System](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/7.ChessGameSystem)
+- [Design a Restaurant System](https://github.com/SatyamRaj1905/Low-Level-Design/tree/main/8.restaurantSystem)
 
 ### 2️⃣ System Requirements & Diagrams
 - [ATM System Requirements](./ATM%20System%20Requirements.png)
