@@ -34,6 +34,7 @@ Whether you are preparing for **FAANG interviews** or looking to enhance your **
 ---
 
 ## 📂 Directory Structure
+```bash
 Directory structure:
 └── satyamraj1905-low-level-design/
     ├── README.md
@@ -326,7 +327,7 @@ Directory structure:
             ├── modules.xml
             ├── uiDesigner.xml
             └── .gitignore
-
+```
 
 ## 📜 How to Use
 
